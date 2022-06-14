@@ -1,0 +1,55 @@
+202 East Squire Drive,
+Rochester, NY. 14623	ROHAN PARKAR
+https://www.linkedin.com/in/rohanparkar10
+https://github.com/RohanParkar
+Phone: (585) 710-1537
+Email: parkarrohan45@gmail.com
+OBJECTIVE: Actively seeking Summer/Fall 2022 internship that will allow me to utilize my data engineering, data science & statistical analytics skills to acquire experience and knowledge while contributing to the success of the company.
+EDUCATION
+Rochester Institute of Technology, M.S., Information Technology and Analytics
+GPA: 4.0 / 4.0
+Relevant Courses: Applied Statistics, Database Design and Implementation, Information Retrieval and Text Mining, Foundation of Data Science and Analytics, Non-Relational Data Management.
+University of Mumbai, B.E., Computer Science
+CGPI: 9.29 / 10.00
+Relevant Courses: Data Management System, Data Warehousing and Mining, Machine Learning.	Rochester, NY
+Expected Graduation August 2023
+
+
+                                Mumbai, India
+                August 2017 - May 2021
+TECHNICAL SKILLS
+BI Tools	: Power BI, Weka, Microsoft Excel, Salesforce Analytics, Report Builder
+Programming Languages	: SQL, Python, Java, C++, C
+Development Tools	: Visual Studio, SSMS, Anaconda, XAMPP, Eclipse
+Web Designing	: HTML, CSS, JavaScript, PHP, XML
+PROJECTS
+AI and Web-Based Interactive College Enquiry Chatbot
+Directed a team of four to design and build a web-based chatbot that uses Natural Language Processing and Machine Learning to have conversations with enquirers using Python’s neural-networking libraries and HTML.
+Face Mask Detection to contain spread of Covid-19
+Designing and coding a classifier to identify whether a face is masked by analyzing facial data points using OpenCV, Viola-Jones and CNN algorithm as a team of 3.
+Resume Retrieval and Classification using Text mining
+Implementing a scalable retrieval system of unstructured resume data using inverted index matrix and programming a classifier to match them to job profiles using text mining.
+Data Exchange Software
+Integrated codes from various sources and front-end to build a data exchange software in Python using Sockets and upgraded it to add new functionalities.
+Real Estate Website
+Designed a full-stack real estate website to buy and sell properties programmed on XAMPP using PHP, HTML and CSS.
+CERTIFICATIONS
+Power BI: Dashboards for Beginners 	LinkedIn Learning, Jan 2022
+Skills earned: Beginner Data Transformation & Load, DAX Measures, Reports & Dashboards design & development
+Managing and Analyzing Data in Excel	LinkedIn Learning, Jan 2022
+Skills earned: Data Prep, Formulas, Advanced Filters, Custom Sorts
+Programming for Everybody (Getting started with Python)	University of Michigan, Apr 2020
+Skills earned: Python syntax and semantics, Python programming
+Explore Machine Learning	Google, Dec 2019
+Skills earned: ML basics, Python libraries
+Technical Support Fundamentals	Google, Apr 2020
+Skills earned: Customer Support, Troubleshooting, Linux
+The Bits and Bytes of Computer Networking	Google, May 2020
+Skills earned: Network model, DNS, Ipv4
+PUBLICATION
+R. Parkar, Y. Payare, K. Mithari, J. Nambiar and J. Gupta, "AI And Web-Based Interactive College Enquiry Chatbot," 2021 13th International Conference on Electronics, Computers and Artificial Intelligence, 2021, pp. 1-5, doi: 10.1109/ECAI52376.2021.9515065.
+WORKSHOPS AND SEMINARS
+•	Webinar on Data Structures, Wisdom Sprout
+•	Basics of Artificial Intelligence and Machine Learning, Maharashtra Association Training and Placement Officers
+•	Artificial Intelligence Workshop, What After College
+
